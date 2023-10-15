@@ -1,14 +1,3 @@
-[gd_scene load_steps=2 format=3 uid="uid://c8qclwn36fnsf"]
-
-[ext_resource type="Script" path="res://new_script.gd" id="1_wnhum"]
+[gd_scene format=3 uid="uid://c8qclwn36fnsf"]
 
 [node name="Node2D" type="Node2D"]
-
-[node name="Button" type="Button" parent="."]
-offset_right = 635.0
-offset_bottom = 320.0
-tooltip_text = "This is a button"
-text = "New Button"
-script = ExtResource("1_wnhum")
-
-[connection signal="pressed" from="Button" to="Button" method="_on_pressed"]
