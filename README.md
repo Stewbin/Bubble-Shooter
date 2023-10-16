@@ -1,3 +1,3 @@
 # Bubble-Shooter
 
-Pushing to Main
+Pushing to Mian
