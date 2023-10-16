@@ -1,5 +1,4 @@
 # Bubble-Shooter
 
-Please don't get rid of me, pwetty pleez...
+Please don't get rid of me
 
-This is a change made by David
