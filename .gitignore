@@ -1,0 +1,18 @@
+# Unity generated folders
+Library/
+Temp/
+obj/
+Build/
+
+# VS/MD solution and project files
+*.suo
+*.user
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+.DS_Store
