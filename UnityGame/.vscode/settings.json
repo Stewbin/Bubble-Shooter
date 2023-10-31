@@ -52,5 +52,5 @@
         "Temp/": true
     },
     "dotnet.preferCSharpExtension": true,
-    "dotnet.defaultSolution": "Bubble Shooter.sln"
+    "dotnet.defaultSolution": "UnityGame.sln"
 }
