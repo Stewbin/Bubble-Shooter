@@ -36,8 +36,7 @@ public class CanonController : MonoBehaviour
         transform.position = targetPosition;
 
         // Calculate the rotation while keeping the Y-axis (yaw) rotation fixed.
-        Quaternion targetRotation = Quaternion.LookRotation(Vector3.forward, directionToMouse) * Quaternion.Euler(1f, 9f, 1f);
-        targetRotation.z = 0;   
+        Quaternion targetRotation = Quaternion.LookRotation(Vector3.forward, directionToMouse);
         transform.rotation = targetRotation;
 
         
