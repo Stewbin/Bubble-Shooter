@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public int speed;
+    public float speed = 5f;
     [SerializeField] private Rigidbody2D rb;
     private Vector2 movement; //Direction of movement vector. Has 0s and 1s
 

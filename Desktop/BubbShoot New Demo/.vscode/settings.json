@@ -56,5 +56,7 @@
         "temp/": true,
         "Temp/": true
     },
+    "BubbShoot New Demo.sln=======dotnet.preferCSharpExtension": true,
+    "UnityGame.sln>>>>>>>Stashedchanges": "UnityGame/.vscode/settings.json",
     "dotnet.defaultSolution": "BubbShoot New Demo.sln"
 }
